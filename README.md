@@ -13,4 +13,7 @@ Torne-se um contribuidor!
  - DEVOPS MASTERY ROADMAP2.html
  - README.md 
 
-Produzido por: Marlon Bastida
+## Licença
+
+Este projeto está sob a licença [MIT License](LICENSE).
+
